@@ -1,0 +1,5 @@
+.HiddenAR/
+results/*nc
+*.o
+*.so
+*.dll
